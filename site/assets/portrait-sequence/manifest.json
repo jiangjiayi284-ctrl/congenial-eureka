@@ -1,0 +1,2467 @@
+{
+  "version": 1,
+  "width": 523,
+  "height": 740,
+  "clips": {
+    "idle": {
+      "frameCount": 76,
+      "duration": 5070,
+      "loop": true,
+      "frames": [
+        {
+          "sheet": "idle-00.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-00.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-01.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-02.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-03.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-04.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-05.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-06.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-06.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "idle-06.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "idle-06.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        }
+      ]
+    },
+    "turn": {
+      "frameCount": 76,
+      "duration": 4630,
+      "loop": false,
+      "frames": [
+        {
+          "sheet": "turn-00.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-06.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-06.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-06.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-06.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        }
+      ]
+    },
+    "thinking": {
+      "frameCount": 76,
+      "duration": 5070,
+      "loop": true,
+      "frames": [
+        {
+          "sheet": "thinking-00.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-00.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-01.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-02.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-03.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-04.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-05.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-06.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-06.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "thinking-06.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "thinking-06.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        }
+      ]
+    },
+    "returning": {
+      "frameCount": 76,
+      "duration": 4630,
+      "loop": false,
+      "frames": [
+        {
+          "sheet": "turn-06.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-06.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-06.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-06.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-05.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-04.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-03.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-02.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 60
+        },
+        {
+          "sheet": "turn-01.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 70
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1569,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1046,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 523,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 0,
+          "y": 1480,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1569,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1046,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 523,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 0,
+          "y": 740,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1569,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 1046,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 523,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        },
+        {
+          "sheet": "turn-00.webp",
+          "x": 0,
+          "y": 0,
+          "width": 523,
+          "height": 740,
+          "duration": 30
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="195.514" height="90.3337" viewBox="0 0 195.514 90.3337" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Rectangle 5090">
+<use xlink:href="#stroke0_0_5" fill="url(#paint0_linear_0_5)"/>
+<mask id="stroke1_0_5" fill="white">
+<use xlink:href="#stroke0_0_5"/>
+</mask>
+<path d="M58.7818 88.6252L76.8986 70.934C77.2722 70.5692 77.7737 70.3649 78.2959 70.3649H160.331C179.762 70.3649 195.514 54.6132 195.514 35.1825C195.514 15.7517 179.762 0 160.331 0H35.1825C15.7517 0 0 15.7517 0 35.1825C0 54.6132 15.7517 70.3649 35.1825 70.3649H40.2788C40.8875 70.3649 41.4421 70.7147 41.7043 71.2641L49.175 86.9169C50.9461 90.6276 55.8401 91.4979 58.7818 88.6252Z" stroke-width="12" stroke="white" mask="url(#stroke1_0_5)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_5" x1="-18.9369" y1="4.02517" x2="195.514" y2="35.1825" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4FDD00"/>
+<stop offset="1" stop-color="#00DEE6"/>
+</linearGradient>
+<path id="stroke0_0_5" d="M0 35.1825C0 15.7517 15.7517 0 35.1825 0H160.331C179.762 0 195.514 15.7517 195.514 35.1825C195.514 54.6132 179.762 70.3649 160.331 70.3649H78.2959C77.7737 70.3649 77.2722 70.5692 76.8986 70.934L58.7818 88.6252C55.8401 91.4979 50.9461 90.6276 49.175 86.9169L41.7043 71.2641C41.4421 70.7147 40.8875 70.3649 40.2788 70.3649H35.1825C15.7517 70.3649 0 54.6132 0 35.1825Z"/>
+</defs>
+</svg>

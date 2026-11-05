@@ -1,0 +1,44 @@
+name: Deploy personal website
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Import website source on first deployment
+        shell: bash
+        run: |
+          if compgen -G 'website-source.part-*' > /dev/null; then
+            cat website-source.part-* > website-source.tar.gz
+            sha256sum --check SHA256.txt
+            tar -xzf website-source.tar.gz
+            rm website-source.tar.gz
+            git rm website-source.part-* SHA256.txt
+            git add site
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Import portfolio frontend and assets'
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
