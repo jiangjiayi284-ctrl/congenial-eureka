@@ -1,0 +1,23 @@
+/* Original template letter geometry, scoped to the two title instances. */
+.bk-words{position:relative;display:flex;align-items:center;justify-content:center;min-height:1.5em;touch-action:pan-y pinch-zoom;white-space:nowrap}
+.bk-words .word{display:inline-flex;flex-shrink:0}
+.bk-words .space{width:.28em;flex-shrink:0}
+.bk-words .letter{pointer-events:none;display:inline-grid;position:relative;align-items:center;height:1.08em;flex-shrink:0;transition:padding-inline .55s cubic-bezier(.22,1,.36,1)}
+.bk-words .char{grid-area:1/1;line-height:1;justify-self:center}
+.bk-words .letter.active .char,.bk-words .letter.pending .char{visibility:hidden}
+.bk-words .letter.returning .char{animation:bk-letter-return var(--exit-duration,620ms) cubic-bezier(.22,1,.36,1) both}
+@keyframes bk-letter-return{0%,20%{opacity:0;transform:scale(.88)}65%{opacity:1;transform:scale(1.035)}100%{opacity:1;transform:none}}
+.bk-words .sticker{position:absolute;top:calc(50% + var(--offset,0em));left:50%;translate:-50% -50%;z-index:1;pointer-events:none}
+.bk-words .sticker img{display:block;height:var(--height,1.12em);width:auto;max-width:var(--maxwidth,1.377em);object-fit:contain}
+.bk-words .hit-layer{position:absolute;inset:0;z-index:3;color:transparent;user-select:none;pointer-events:none;display:flex;align-items:center;justify-content:center}
+.bk-words .hit{display:inline-flex;align-items:center;pointer-events:auto;height:1.35em;line-height:1;transition:padding-inline .55s cubic-bezier(.22,1,.36,1)}
+.letter-opening{position:fixed;inset:0;z-index:1000;background:var(--bg,#fafafa);display:flex;align-items:center;justify-content:center;opacity:1;transition:opacity 600ms ease;overflow:clip}
+.letter-opening-title{width:100%;font:700 clamp(36.8px,8.05vw,128.8px)/1.1 Arial,sans-serif;letter-spacing:-.045em;color:#000}
+.letter-opening.is-finished{opacity:0;pointer-events:none}
+.letter-opening-skip{position:absolute;right:28px;bottom:28px;border:0;background:transparent;padding:8px;color:#aaa;font-size:12px;cursor:pointer}
+html.letter-intro-pending{overflow:hidden}
+html.letter-intro-pending main{visibility:hidden}
+footer h2.bk-words{font-size:clamp(64px,5.84vw,112px)}
+@media(max-width:900px){footer h2.bk-words{font-size:clamp(32px,8vw,62px)}}
+@media(max-width:600px){.letter-opening-title{font-size:8.28vw}}
+@media(prefers-reduced-motion:reduce){.bk-words .letter,.bk-words .hit{transition:none}.bk-words .letter .char{animation:none!important}.bk-words .sticker{display:none}.letter-opening{display:none}html.letter-intro-pending main{visibility:visible}}
