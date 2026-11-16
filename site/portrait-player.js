@@ -161,7 +161,10 @@ class PortraitPlayer {
       if (t === 1) { this.transition = null; this.drawnKey = `${this.state}:${this.index}`; }
     } else {
       const key = `${this.state}:${this.index}`;
-      if (key !== this.drawnKey) { this.paintFrame(frame, 1); this.drawnKey = key; }
+      if (key !== this.drawnKey) {
+        this.paintFrame(frame, 1);
+        this.drawnKey = key;
+      }
       this.elapsed += delta;
       if (this.elapsed >= frame.duration) {
         this.elapsed -= frame.duration;

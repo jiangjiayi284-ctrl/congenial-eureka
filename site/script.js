@@ -105,12 +105,7 @@ async function send(question) {
   messages.scrollTop = messages.scrollHeight;
   const pending = [...conversation.slice(-18), {role:'user', content:text}];
   try {
-    if (location.hostname.endsWith('.github.io') && !window.PERSONAL_SITE_CHAT_ENDPOINT) {
-      reply.textContent = answer(text);
-      conversation.push({role:'user',content:text}, {role:'assistant',content:reply.textContent});
-      return;
-    }
-    const response = await fetch(window.PERSONAL_SITE_CHAT_ENDPOINT || '/api/chat', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({messages:pending}), signal:AbortSignal.timeout(55000)});
+    const response = await fetch('/api/chat', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({messages:pending}), signal:AbortSignal.timeout(55000)});
     const data = await response.json();
     if (!response.ok || !data.answer) throw new Error(data.error || '暂时无法连接 AI 服务，请稍后重试。');
     reply.textContent = data.answer;
@@ -140,7 +135,6 @@ const revealGroups = [
   '.tools',
   '.work > h2',
   '.work-grid article',
-  '.visual',
   'footer h2',
   'footer .contact-qr',
   'footer p'

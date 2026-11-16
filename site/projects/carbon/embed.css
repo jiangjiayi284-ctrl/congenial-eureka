@@ -1,2 +1,2 @@
-html{overflow:hidden;scroll-behavior:smooth}body{margin:0;background:#fffdfa}main{display:flex;flex-direction:column;gap:10px;width:100%;overflow:hidden}.board-shell{flex-shrink:0;border-radius:10px;overflow:hidden}
+html{overflow:hidden;scroll-behavior:smooth}body{margin:0;background:#fffdfa}main{display:flex;flex-direction:column;gap:10px;width:100%;overflow:hidden}.board-shell{flex-shrink:0;border-radius:12px;overflow:hidden}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
