@@ -9,13 +9,21 @@ portrait.setAttribute('aria-controls', chat.id);
 portrait.setAttribute('aria-expanded', 'false');
 
 portraitImage.style.cssText = 'width:100%;height:100%;object-fit:contain;object-position:center';
-const portraitPlayer = new PortraitPlayer(portrait, portraitImage, 'assets/portrait-sequence/manifest.json');
+const compactPortrait = matchMedia('(max-width: 900px)').matches;
+let portraitPlayer;
+function getPortraitPlayer() {
+  const manifest = compactPortrait ? 'mobile/manifest.json' : 'manifest.json';
+  return portraitPlayer ??= new PortraitPlayer(portrait, portraitImage, 'assets/portrait-sequence/' + manifest);
+}
+if (!compactPortrait && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  addEventListener('load', getPortraitPlayer, {once: true});
+}
 function setAgentOpen(open) {
   chat.classList.toggle('is-open', open);
   chat.hidden = !open;
   portrait.setAttribute('aria-expanded', String(open));
   hint.textContent = open ? '再次点击人物收起' : '点击人物试试';
-  portraitPlayer.setOpen(open);
+  if (open || portraitPlayer) getPortraitPlayer().setOpen(open);
 }
 portrait.addEventListener('click', () => setAgentOpen(!chat.classList.contains('is-open')));
 chat.innerHTML = `<div class="agent-heading"><span>✦</span> 你可以问我<button class="agent-close" aria-label="关闭对话">×</button></div><div class="agent-messages" aria-live="polite"><div class="agent-suggestions"><button>你是谁</button><button>你擅长什么</button><button>有哪些代表项目</button></div></div><form class="agent-form"><input aria-label="输入问题" placeholder="输入消息…" autocomplete="off"><button aria-label="发送消息" type="submit">↑</button></form>`;

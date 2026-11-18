@@ -64,7 +64,10 @@
   height: auto;
   border-radius: 12px;
 }
-.project-artboard + .project-artboard {
+.project-artboard-picture {
+  display: block;
+}
+.project-artboard-picture + .project-artboard-picture {
   margin-top: 10px;
 }
 

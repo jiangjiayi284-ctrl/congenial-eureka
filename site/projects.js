@@ -106,8 +106,11 @@
     }else if(p.artboards){
       document.title=p.title+'｜姜佳仪';
       content.innerHTML=p.artboards.map(({id,width=1920,height,alt},index)=>`
-        <img class="project-artboard" src="assets/projects/${p.id}/${id}.${p.artboardFormat||'webp'}"
+        <picture class="project-artboard-picture">
+        <source media="(max-width: 760px)" srcset="assets/projects/${p.id}/${id}-960.webp">
+        <img class="project-artboard" decoding="async" src="assets/projects/${p.id}/${id}.${p.artboardFormat||'webp'}"
           width="${width}" height="${height}" alt="${alt}"${index ? ' loading="lazy"' : ''}>
+        </picture>
       `).join('');
     }else{
       document.title=p.title+'｜姜佳仪';
