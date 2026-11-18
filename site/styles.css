@@ -86,6 +86,13 @@ footer .contact-kicker{
   pointer-events:none;
 }
 .hero-center{gap:0}.portrait{width:360px;height:510px}.chat-card{display:none}@media(max-width:900px){.portrait{width:260px;height:368px}}
+/* Blend the whole portrait against the hero so the image and canvas share one backdrop. */
+@media (max-width: 900px){
+  .hero{isolation:isolate}
+  .portrait{background:transparent;mix-blend-mode:multiply}
+  .portrait img,.portrait-surface{mix-blend-mode:normal}
+  .portrait::after{background:#fff}
+}
 .click-hint{left:0;right:0;width:100%;top:calc(48% + 255px + 12px);margin:0;text-align:center;white-space:nowrap;transform:none}
 @media(max-width:900px){.click-hint{top:calc(45% + 184px + 12px)}}
 
